@@ -1,2 +1,1 @@
-config.js (Simple Version)
 // Simple Configuration - No Backend Needed const CONFIG = { // School Information SCHOOL_NAME: 'Sekolah Kebangsaan Agama Ibnu Khaldun', SCHOOL_EMAIL: 'admin@sktd.edu.my', // Chatbot Settings BOT_NAME: 'PINTAR Assistant', LANGUAGE: 'ms', // 'ms' for Malay, 'en' for English // Features (all work without backend) FEATURES: { basic_qa: true, // FAQ responses school_info: true, // School details exam_schedule: true, // Static schedule homework_help: true // Study tips } }; // No API_URL needed for simple version!
